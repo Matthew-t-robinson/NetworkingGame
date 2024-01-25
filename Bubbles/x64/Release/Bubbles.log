@@ -1,0 +1,21 @@
+﻿  Bubbles.cpp
+C:\Users\u0026939\Source\repos\Bubbles\Bubbles\Bubbles.cpp(19,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\u0026939\Source\repos\Bubbles\Bubbles\Bubbles.cpp(35,92): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\u0026939\Source\repos\Bubbles\Bubbles\Bubbles.cpp(35,65): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\u0026939\Source\repos\Bubbles\Bubbles\Bubbles.cpp(109,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\u0026939\Source\repos\Bubbles\Bubbles\Bubbles.cpp(110,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\u0026939\Source\repos\Bubbles\Bubbles\Bubbles.cpp(117,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\u0026939\Source\repos\Bubbles\Bubbles\Bubbles.cpp(118,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 126 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Bubbles.vcxproj -> C:\Users\u0026939\Source\repos\Bubbles\x64\Release\Bubbles.exe
